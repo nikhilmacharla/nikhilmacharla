@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Am using this repository for my learning
+
+I'm currently learning DevOps courses and Data Engineering courses here:
 
 <!--
 **nikhilmacharla/nikhilmacharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
