@@ -1,0 +1,3 @@
+Container is a lightweight in nature, a container is a package of or a bundle of which is combination of Application, Application dependencies, Dependent libraries and System dependencies etc., so it will not have complete OS.
+
+Not complete OS means it will have OS, but in a minimilistic OS, which has what application needs.
