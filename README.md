@@ -3,8 +3,7 @@
 
 I'm currently learning DevOps courses and Data Engineering courses here:
 
-Docker: 
-https://github.com/nikhilmacharla/nikhilmacharla/issues/1#issue-2098331503
+![docker](https://github.com/nikhilmacharla/nikhilmacharla/assets/50229332/ac7f2e50-c500-4278-b90d-db90c646849a)
 
 
 <!--
