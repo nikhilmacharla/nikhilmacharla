@@ -1,0 +1,7 @@
+Hadoop:
+
+HDFS: Hadoop distributed file system, is a component in a hadoop architecture, is designed for storing and managing large volumes of data acorss distributed cluster. 
+      It breaks down large files into blocks and distributed them across nodes in a cluster and process through hadoop, 
+      Advantages: 1. Data availbility -- creates replicas of data blocks to provide data availbility,
+                  2. Sclability -- The cluster is designed to scale horizontally by adding more nodes to the cluster, allowing for increased storage capacity and processing power as the data volume grows,
+                  3. High Throughput: HDFS is optimized for high-throughput data access. It is well-suited for applications that need to read large datasets sequentially, making it suitable for tasks like batch processing in data analytics.
